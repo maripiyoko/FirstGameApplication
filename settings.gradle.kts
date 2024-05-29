@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "FirstGameApplication"
 include(":app")
+include(":libs")
  
